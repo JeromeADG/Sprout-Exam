@@ -1,4 +1,4 @@
-You need to install the vue3 setup in order for the website to function. I can't add all files in github because it has 10000+ files.
+You need to install the vue3 setup in order for the website to function.
 
 Open the README.md file to start installation then follow the steps below:
 
